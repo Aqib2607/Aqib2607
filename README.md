@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aqib Jawwad Nahin</h1>
 <h3 align="center">A passionate developer and analysts from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqib2607&label=Profile%20views&color=0e75b6&style=flat" alt="aqib2607" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqib2607" alt="aqib2607" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/aqibnahin85601" target="blank"><img src="https://img.shields.io/twitter/follow/aqibnahin85601?logo=twitter&style=for-the-badge" alt="aqibnahin85601" /></a> </p>
+
 - 🔭 I’m currently working on [jarvis_ai_assistant](https://github.com/Aqib2607/jarvis_ai_assistant)
+
+- 💬 Ask me about **any project ideas.**
 
 - 📫 How to reach me **aqibjawwad2607@gmail.com**
 
@@ -11,8 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/aqib jawwad nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqib jawwad nahin" height="30" width="40" /></a>
-<a href="https://instagram.com/_.the_asmodeus._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.the_asmodeus._" height="30" width="40" /></a>
+<a href="https://twitter.com/aqibnahin85601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqibnahin85601" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/theasmodeus2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theasmodeus2607" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_.the_asmodeus._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.the_asmodeus._/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@aqibjawaad2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aqibjawaad2607" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/the_asmodeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/the_asmodeus" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/aqibjawwad2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aqibjawwad2607" height="30" width="40" /></a>
+<a href="https://discord.gg/g6TkXZ35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g6TkXZ35" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/aqib2607"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aqib2607" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqib2607&show_icons=true&locale=en&layout=compact" alt="aqib2607" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqib2607&show_icons=true&locale=en" alt="aqib2607" /></p>
