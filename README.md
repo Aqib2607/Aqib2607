@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aqibjawwad2607@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uFkJPdXK9bLCaOqSEItCXwb81lLeXr5U/view?usp=sharing](https://drive.google.com/file/d/1uFkJPdXK9bLCaOqSEItCXwb81lLeXr5U/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1uFkJPdXK9bLCaOqSEItCXwb81lLeXr5U/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
