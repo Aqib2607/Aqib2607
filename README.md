@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqib2607&label=Profile%20views&color=0e75b6&style=flat" alt="aqib2607" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aqibnahin85601" target="blank"><img src="https://img.shields.io/twitter/follow/aqibnahin85601?logo=twitter&style=for-the-badge" alt="aqibnahin85601" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aqib2607" target="blank"><img src="https://img.shields.io/twitter/follow/aqibnahin85601?logo=twitter&style=for-the-badge" alt="aqib2607" /></a> </p>
 
 - 🔭 I’m currently working on [jarvis_ai_assistant](https://github.com/Aqib2607/jarvis_ai_assistant)
 
